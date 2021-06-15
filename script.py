@@ -64,6 +64,6 @@ Bot will automatically search for your files and give links to that!
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>English chatting group :</b> <a href='https://t.me/English_chatting_club_Global'>Video Link</a> 
+⭕️<b>English chatting group :</b> <a href='https://t.me/English_chatting_club_Global'>group link</a> 
 
 """
